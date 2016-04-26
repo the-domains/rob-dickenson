@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'My biggest disappointment in modern civilization is the destruction of any kind of American culture by our corporate system. To see this first hand, just look at where we shop. I remember the day when one knew the merchants that we purchased our goods from. I always enjoyed chatting with our local grocer when my family made its weekly pilgrimage to Delpino’s groceries to procure our share of American agricultural abundance. In the summer, the vegetables would come from local truck farmers. We would pass our future meat on the road to town. The shops where we spent our money were owned by the people who waited on you. There was an excellence in service, a quality of goods and a pleasure in the experience which cannot be matched in a mall. We all buy our clothes from the same haberdashery run by a suit in some far off office building. Every American mall is populated by the same ticky tack stores. One nation under one brand for all.'
-datePublished: '2016-04-26T19:13:12.871Z'
-dateModified: '2016-04-26T19:12:47.258Z'
+datePublished: '2016-04-26T19:24:34.112Z'
+dateModified: '2016-04-26T19:24:24.376Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-my-biggest-disappointment-in-modern-civilization-is-the-dest.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-my-biggest-disappointment-in-modern-civilization-is-the-dest.md
-published: true
 url: my-biggest-disappointment-in-modern-civilization-is-the-dest/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c93842ae-b8df-4c2a-85b0-864e66f0d6b5.jpg)
+
 My biggest disappointment in modern civilization is the destruction of any kind of American culture by our corporate system. To see this first hand, just look at where we shop. I remember the day when one knew the merchants that we purchased our goods from. I always enjoyed chatting with our local grocer when my family made its weekly pilgrimage to Delpino's groceries to procure our share of American agricultural abundance. In the summer, the vegetables would come from local truck farmers. We would pass our future meat on the road to town. The shops where we spent our money were owned by the people who waited on you. There was an excellence in service, a quality of goods and a pleasure in the experience which cannot be matched in a mall. We all buy our clothes from the same haberdashery run by a suit in some far off office building. Every American mall is populated by the same ticky tack stores. One nation under one brand for all.
 
 Ray Kroc changed the American diet along with our farming system. McDonalds gave birth to the prepackaged nonsense that folks call meals today. He had a great hand in burying the American family owned farm. We now buy our food from a food industry armed with hypodermic needles and chemicals to speed its tasteless tidbits to our table. How could so many jaws gnash Big Macs unless the cattle themselves were somehow engineered to get from the pasture to the table in the blink of an eye? I have never had a burger at McDonalds, Burger King or Wendy's for one reason. When you drive by one of these clip joints to admire their extra big flags waving in the breeze, take a deep breath. Do you really want to eat something that smells like that? I don't mind that corporations run our government or that they destroyed our taste buds or even that they produce a race of workers more tired eyed and dull with each passing year. I have little love for these culture vultures because they changed one of the most important elements of our heritage---our music.
