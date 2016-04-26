@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'My biggest disappointment in modern civilization is the destruction of any kind of American culture by our corporate system. To see this first hand, just look at where we shop. I remember the day when one knew the merchants that we purchased our goods from. I always enjoyed chatting with our local grocer when my family made its weekly pilgrimage to Delpino’s groceries to procure our share of American agricultural abundance. In the summer, the vegetables would come from local truck farmers. We would pass our future meat on the road to town. The shops where we spent our money were owned by the people who waited on you. There was an excellence in service, a quality of goods and a pleasure in the experience which cannot be matched in a mall. We all buy our clothes from the same haberdashery run by a suit in some far off office building. Every American mall is populated by the same ticky tack stores. One nation under one brand for all.'
-datePublished: '2016-04-26T19:24:34.112Z'
-dateModified: '2016-04-26T19:24:24.376Z'
+datePublished: '2016-04-26T19:25:32.172Z'
+dateModified: '2016-04-26T19:24:58.757Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-my-biggest-disappointment-in-modern-civilization-is-the-dest.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: my-biggest-disappointment-in-modern-civilization-is-the-dest/index.html
 _type: Article
 
