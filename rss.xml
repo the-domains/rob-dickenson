@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Rob Dickenson]]></title>
-        <description><![CDATA[Rob Dickenson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Rob Dickenson  •  Musician  •  Writer]]></title>
+        <description><![CDATA[Rob Dickenson  •  Musician  •  Writer]]></description>
+        <link>https://thegrid.ai/rob-dickenson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 18:32:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 18:50:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rob-dickenson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f93cd7b1-22cd-42b8-a5d1-d69e45f49535.jpg">]]></description>
+            <link>https://thegrid.ai/rob-dickenson/it-is-never-too-late-to-give-up-our-prejudices-henry-da/index.html</link>
+            <guid isPermaLink="false">9cb5e0f4-6623-478e-aa2c-9c98431dd136</guid>
+            <pubDate>Tue, 26 Apr 2016 18:50:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CONSERVATIVES AND LIBERALS VERSUS INDIVIDUALS]]></title>
             <description><![CDATA[<article><h1>CONSERVATIVES AND LIBERALS VERSUS INDIVIDUALS</h1><p>By the way conservatives and liberals attack each other with the same verbiage over and over, you would think that they each held wildly divergent views. Nothing could be farther from the truth. They both cling to the government like some raggedy ass old teddy bear. Conservatives chatter again and again, like psycho Chicken Littles, about the socialist takeover of our government. Liberals are very fond of painting their counterparts as bigots and fascists of the highest order. Now, admittedly, there is a modicum of truth in almost anything that a human utters. However, small truths do not make great ideas. Looking deeper into conservative and liberal political history shows that they are swinging the same hammer from a different angle. That hammer is the government. The nail is the individual.</p></article>]]></description>
-            <link>undefinedconservatives-and-liberals-versus-individuals/index.html</link>
+            <link>https://thegrid.ai/rob-dickenson/conservatives-and-liberals-versus-individuals/index.html</link>
             <guid isPermaLink="false">0ba76ed7-37b2-48fe-b7a5-a8be77863c6d</guid>
             <pubDate>Tue, 26 Apr 2016 18:32:33 GMT</pubDate>
         </item>
